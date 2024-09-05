@@ -44,7 +44,7 @@ void welpage()
     getch();
     system("cls");//this line clear the screen......
 }
-//--------------> loading page <-----------------------//
+//--------------> loading page <------------------------//
 void coordinate(int x,int y)
 {
     COORD position;
